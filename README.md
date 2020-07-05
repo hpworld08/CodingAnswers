@@ -1,3 +1,3 @@
 Coding Answers in Java
-Solutions for Coding question in GeeksForGeeks.
+Solutions for question in GeeksForGeeks.
 May not be a optimal solution
