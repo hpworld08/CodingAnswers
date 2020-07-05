@@ -1,0 +1,19 @@
+class Hp{
+	public static void convertFive(int n){
+    int sum=0;
+    int temp=n;
+    int place=0;
+    while(temp>0)
+    {   
+        int rem=temp%10;
+        temp=temp/10;
+        if(rem==0)
+        {
+            sum+=5*Math.pow(10,place);
+        }
+        place+=1;
+    }
+    System.out.println(n+sum);
+}
+//Main Function
+}
