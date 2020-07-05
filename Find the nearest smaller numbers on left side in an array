@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class GFG
+class Hp
  {  
     public static void nearestSmallNumber(int a[])
     {   System.out.print("- ");
